@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on frontend web development
-- :art: I'm using <b>JavaScript</b>, <b>React</b>, <b>CSS/SASS</b> actively.
+- :art: I'm using <b>JavaScript</b>, <b>React</b>, <b>CSS/SASS</b> actively. I also use many different tools and libraries as needed.
 - 🌱 I’m currently learning <b>Next.js</b>, <b>Express.js</b>, <b>MongoDB</b> and trying to learn <b>Web3</b> :blush:
 - 👯 I can support any open source project as long as I have enough time
 
