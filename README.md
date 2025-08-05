@@ -19,9 +19,6 @@ Here are some ideas to get you started:
         <a href="mailto:yakuppgeyik@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
         </a>
-        <a href="https://twitter.com/yakupjs">
-            <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-        </a>
    </div>
    
 ## :hammer_and_wrench: Technologies and Tools
