@@ -30,10 +30,10 @@ Rust, trpc, Render deployment
 
 ### <p>Contact me</p>
    <div id="badges">
-        <a href="https://www.linkedin.com/in/yakupgeyik">
+        <a href="https://www.linkedin.com/in/yakupgeyik" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
-        <a href="mailto:yakuppgeyik@gmail.com">
+        <a href="mailto:yakuppgeyik@gmail.com" target="_blank">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
         </a>
    </div>
