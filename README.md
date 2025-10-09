@@ -1,16 +1,35 @@
-### <p align="center">I'm Yakup and I love coding</p> 
+# Hello, I'm Yakup and I love coding
 
-<!--
-**yakuppgeyikk96/yakuppgeyikk96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm developing myself as a fullstack software developer, constantly learning and building with modern technologies.
 
-Here are some ideas to get you started:
--->
+## 🛠️ Technologies I Use & Learning
 
-- 🔭 I’m currently working on frontend web development
-- :art: I'm using <b>JavaScript</b>, <b>React</b>, <b>Next.js</b>, <b>CSS/SASS</b> actively. I also use many different tools and libraries as needed.
+**Frontend**  
+JavaScript, Typescript, React, Next.js, Tailwind CSS, HTML/CSS, SCSS, Redux Toolkit
 
-#### <p align="center">Contact with me</p>
-   <div id="badges" align="center">
+**Testing & Documentation**  
+React Testing Library, Vitest, Storybook
+
+**Backend**  
+Node.js, Express, REST APIs
+
+**Database**  
+MongoDB, Mongoose
+
+**Tools & DevOps**  
+Git, Docker, VS Code, Cursor IDE
+
+**Currently Exploring**  
+Rust, trpc, Render deployment
+
+---
+
+*Always learning, always building* 🚀
+
+---
+
+### <p>Contact me</p>
+   <div id="badges">
         <a href="https://www.linkedin.com/in/yakupgeyik">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
@@ -18,26 +37,6 @@ Here are some ideas to get you started:
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
         </a>
    </div>
-   
-## :hammer_and_wrench: Technologies and Tools
-<div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-   <br />
-   <br />
-   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="Bitbucket" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="50" height="50"/>&nbsp;
-</div>
+
 
 
