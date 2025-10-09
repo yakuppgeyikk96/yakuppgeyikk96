@@ -1,4 +1,4 @@
-### <p align="center">Hi there👋 I'm Yakup</p> 
+### <p align="center">I'm Yakup and I love coding</p> 
 
 <!--
 **yakuppgeyikk96/yakuppgeyikk96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
