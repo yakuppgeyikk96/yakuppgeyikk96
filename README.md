@@ -20,7 +20,7 @@ MongoDB, Mongoose
 Git, Docker, VS Code, Cursor IDE
 
 **Currently Exploring**  
-Rust, trpc, Render deployment
+GraphQL, Apollo, Prisma, Render deployment
 
 ---
 
