@@ -1,4 +1,4 @@
-# Hello, I'm Yakup and I love coding
+# Hello, I'm Yakup
 
 I'm developing myself as a fullstack software developer, constantly learning and building with modern technologies.
 
