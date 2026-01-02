@@ -11,16 +11,16 @@ JavaScript, Typescript, React, Next.js, Tailwind CSS, HTML/CSS, SCSS, Redux Tool
 React Testing Library, Vitest, Storybook
 
 **Backend**  
-Node.js, Express, REST APIs
+Node.js, Express.js, REST APIs
 
 **Database**  
-MongoDB, Mongoose
+MongoDB, PostgreSQL
 
 **Tools & DevOps**  
 Git, Docker, VS Code, Cursor IDE
 
 **Currently Exploring**  
-GraphQL, Apollo, Prisma, Render deployment
+Microfrontend, .NET Ecosystem, Web Performance Optimization
 
 ---
 
