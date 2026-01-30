@@ -5,13 +5,13 @@ I'm developing myself as a fullstack software developer, constantly learning and
 ## 🛠️ Technologies I Use & Learning
 
 **Frontend**  
-JavaScript, Typescript, React, Next.js, Tailwind CSS, HTML/CSS, SCSS, Redux Toolkit
+JavaScript, Typescript, React, Next.js, Tailwind CSS, HTML/CSS, SCSS, Zustand
 
 **Testing & Documentation**  
 React Testing Library, Vitest, Storybook
 
 **Backend**  
-Node.js, Express.js, REST APIs
+Node.js, Fastify, REST APIs
 
 **Database**  
 MongoDB, PostgreSQL
@@ -20,7 +20,7 @@ MongoDB, PostgreSQL
 Git, Docker, VS Code, Cursor IDE
 
 **Currently Exploring**  
-Microfrontend, .NET Ecosystem, Web Performance Optimization
+Go, Backend Development, Performance Optimization, AI-Driven Development
 
 ---
 
