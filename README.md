@@ -24,10 +24,6 @@ Go, Backend Development, Performance Optimization, AI-Driven Development
 
 ---
 
-*Always learning, always building* 🚀
-
----
-
 ### <p>Contact me</p>
    <div id="badges">
         <a href="https://www.linkedin.com/in/yakupgeyik" target="_blank">
