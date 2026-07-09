@@ -1,38 +1,19 @@
-# Hello, I'm Yakup
+## Yakup Geyik
 
-I'm developing myself as a fullstack software developer, constantly learning and building with modern technologies.
+**Senior Frontend Engineer · Full-Stack (TypeScript)**
 
-## 🛠️ Technologies I Use & Learning
+I build systems where one codebase serves many tenants — and the variance lives in configuration, not in the code.
 
-**Frontend**  
-JavaScript, Typescript, React, Next.js, Tailwind CSS, HTML/CSS, SCSS, Zustand
+Five banks on a virtual POS. Ten country domains on a booking platform, from its first market onward. A CMS page builder that lets marketing teams across those markets ship pages without a deploy. Right now, a schema-driven rendering engine on top of a .NET BFF.
 
-**Testing & Documentation**  
-React Testing Library, Vitest, Storybook
+Outside work I build **[gratia](https://github.com/yakuppgeyikk96/gratia-workspace)** — a full-stack storefront where the interesting parts aren't the products and the cart, but stock integrity under concurrent checkout, idempotent Stripe payments, and enough observability to know what the system is doing.
 
-**Backend**  
-Node.js, Fastify, REST APIs
-
-**Database**  
-MongoDB, PostgreSQL
-
-**Tools & DevOps**  
-Git, Docker, VS Code, Cursor IDE
-
-**Currently Exploring**  
-Go, Backend Development, Performance Optimization, AI-Driven Development
+And I write small things to understand big ones: **[server-driven-framework](https://github.com/yakuppgeyikk96/server-driven-framework)** is a rendering runtime built from scratch — signals, effects, keyed list reconciliation, no virtual DOM — because the fastest way to learn the layer beneath React is to write it.
 
 ---
 
-### <p>Contact me</p>
-   <div id="badges">
-        <a href="https://www.linkedin.com/in/yakupgeyik" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-        </a>
-        <a href="mailto:yakuppgeyik@gmail.com" target="_blank">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-        </a>
-   </div>
+**Stack:** TypeScript · React · Next.js · Node.js · PostgreSQL · Redis · Docker
+**Also:** Angular · .NET · Google Cloud
 
-
-
+📍 Türkiye
+[LinkedIn](https://linkedin.com/in/yakupgeyik) · yakuppgeyik@gmail.com
